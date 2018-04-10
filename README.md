@@ -1,2 +1,1 @@
-# BST-Algorithm
-# BST-Algorithm
+# BST-algorithm
